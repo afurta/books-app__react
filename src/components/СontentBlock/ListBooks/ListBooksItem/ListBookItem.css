@@ -1,0 +1,27 @@
+.card {
+  position: relative;
+  height: 360px;
+}
+.card p {
+  text-align: center;
+}
+.card img {
+  display: block;
+  margin: 0 auto;
+}
+.cardClose {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.card-title {
+  text-align: center;
+}
+.cardEdit {
+  position: absolute;
+  top: 35px;
+  right: 0;
+}
+.card i {
+  cursor: pointer;
+}

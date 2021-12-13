@@ -1,0 +1,26 @@
+.form {
+  max-width: 360px;
+  margin: 0 auto;
+  text-align: center;
+}
+.form div {
+  max-width: 360px;
+  margin: 0 auto;
+  text-align: center;
+  height: 15px;
+}
+.form i {
+  transform: translate(181px, 33px);
+  cursor: pointer;
+}
+.form button {
+  margin-top: 30px;
+}
+.form button i {
+  transform: none;
+}
+.divError {
+  height: none;
+  color: #ff0000;
+  font-size: 24px;
+}

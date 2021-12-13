@@ -1,0 +1,10 @@
+.listBooks_add-btn {
+  text-align: center;
+}
+.listBooks_add-btn i {
+  transition: 1s all;
+  cursor: pointer;
+}
+.listBooks_add-btn i:hover {
+  transform: scale(1.4);
+}
